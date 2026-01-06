@@ -190,7 +190,6 @@
                     <div class="d-flex justify-content-between align-items-center">
                         <div>
                             <h2><i class="bi bi-people-fill"></i> User Management System</h2>
-                            <p class="mb-0 mt-2" style="opacity: 0.9;">Manage your users efficiently</p>
                         </div>
                         <div class="d-flex action-buttons">
                             <button id="bulkDeleteBtn" class="btn btn-danger btn-action">
